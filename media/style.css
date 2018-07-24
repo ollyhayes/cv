@@ -1,0 +1,41 @@
+body
+{
+	background: gainsboro;
+}
+
+div.main
+{
+    width: 1000px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+    border: 1px solid grey;
+	position: relative; /* so .date-period elements can be right aligned */
+}
+
+header
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+header table td
+{
+	padding: 0 5px;
+}
+header table td:first-child
+{
+	text-align: right;
+}
+
+h2
+{
+    border-bottom: 1px solid grey;
+}
+.date-period
+{
+	position: absolute;
+	right: 0;
+	transform: translateY(-52px); /* don't really like doing this, but better than hacking the DOM elements around I think */
+	margin-right: 10px;
+}

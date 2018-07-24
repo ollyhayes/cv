@@ -2,12 +2,16 @@
 layout: cv
 title: CV
 ---
+<header markdown="1">
+
 # Olly Hayes
 
 | Nationality: | British |
 | Address: | Bristol UK |
 | Phone: | +44(0) 7727 617 270 |
 | E-mail: | olly.hayes@gmail.com |
+
+</header>
 
 ## Profile
 
@@ -55,7 +59,7 @@ At FundsLibrary I worked with a team of 19 developers using an agile methodology
 ### C Software Ltd
 
 August 2009 - December 2012
-{:.dates}
+{:.date-period}
 
 C Software provides real-time tactical software solutions for the UK Ministry of Defence, focusing on remote and live asset tracking, delocalised command and control, and information processing and presentation. Whilst not producing hardware ourselves, we work closely with many hardware manufactures to provide a single client/server GIS based application that can be used to control a wide range of third party systems.
 
@@ -64,7 +68,7 @@ Upon initially starting with C Software in 2009 it consisted of three engineers 
 #### C# Senior Developer
 
 August 2011 - December 2012
-{:.dates}
+{:.date-period}
 
 Complete end to end SDLC, from requirements scoping to system deployment and training. Sole manager of projects consisting of 3 or 4 people using an Agile methodology, with life times of around six months.
 
@@ -80,7 +84,7 @@ Complete end to end SDLC, from requirements scoping to system deployment and tra
 #### C# Developer
 
 August 2009 - August 2011
-{:.dates}
+{:.date-period}
 
 * Worked on several government funded research projects. Being from a mathematical background I also developed several algorithms, such as a live GPS data compression algorithm
 * Self taught the fundamentals of IP networking and many data bearers and protocols during several projects involving remotely networked hardware connected either securely over the internet or by ad-hoc IP data  bearers (e.g. satellite or RF)
@@ -92,7 +96,7 @@ August 2009 - August 2011
 ### Pertemps Ltd
 
 June 2006 - June 2009
-{:.dates}
+{:.date-period}
 
 Worked through Pertemps as a contractor for Lloyds Banking Group.
 
@@ -116,21 +120,21 @@ Worked through Pertemps as a contractor for Lloyds Banking Group.
 ### University of Southampton
 
 2006 - 2009
-{:.dates}
+{:.date-period}
 
 Mathematics Degree - 2:2
 
 ### Weston 6th Form College
 
 2004 - 2006
-{:.dates}
+{:.date-period}
 
 Three A-Levels in Maths, Further Maths and Physics
 
 ### Broadoak Community School
 
 1999 - 2004
-{:.dates}
+{:.date-period}
 
 11 GCSEs. A\* in Mathematics, AA in Science
 
