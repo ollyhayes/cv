@@ -1,11 +1,14 @@
 body
 {
 	background: gainsboro;
+	font-family: sans-serif;
+	font-size: 1.2em;
+	line-height: 1.2em;
 }
 
 div.main
 {
-    width: 1000px;
+    max-width: 900px;
     margin: auto;
     background: white;
     padding: 10px;
@@ -38,4 +41,9 @@ h2
 	right: 0;
 	transform: translateY(-52px); /* don't really like doing this, but better than hacking the DOM elements around I think */
 	margin-right: 10px;
+}
+
+:not(header) + h2, :not(h2) + h3
+{
+	margin-top: 2em;
 }
