@@ -30,7 +30,7 @@ After working at Hargreaves Lansdown for four years, I left to travel round the 
 * Experience with various software development tools, including Visual Studio, Git, Subversion, Node.js (Grunt, Gulp, Webpack etc), Vim, Atom, VS Code
 * Excellent problem solving skills, often lent expertise to colleagues faced with particularly sticky problems
 * Experience in writing technical documentation, user guides and writing and presenting training packs as powerpoint slides
-* Ability to troubleshoot complicated software/hardware issues using various tools - Debuggers, SSH/Telnet, Wireshark, Fiddler, hardware simulators etc
+* Ability to troubleshoot complicated software/hardware issues using various tools - debuggers, SSH/Telnet, Wireshark, Fiddler, hardware simulators etc
 * Understanding of the basics of several distributions of GNU/Linux having used it almost exclusively for laptop, PC and home server for the past four years
 
 ## Work Experience
