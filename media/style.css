@@ -57,7 +57,7 @@ h2
 	margin-top: 2em;
 }
 
-h2,h3,h4,p,ul
+/* h2,h3,h4,p,ul
 {
 	break-inside: avoid;
 }
@@ -65,7 +65,10 @@ p,ul
 {
 	break-before: avoid;
 }
-h2#work-experience
+ 
+not working in chrome, hardcoding page breaks for now */
+
+h2#work-experience,h3#c-software-ltd,h3#pertemps-ltd
 {
 	break-before: page;
 }
