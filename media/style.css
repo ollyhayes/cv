@@ -48,7 +48,7 @@ h2
 {
 	position: absolute;
 	right: 0;
-	transform: translateY(-64px); /* don't really like doing this, but better than hacking the DOM elements around I think */
+	transform: translateY(-54px); /* don't like doing this, but need to get it working quickly. Will find a better way later. */
 	margin-right: 10px;
 }
 
