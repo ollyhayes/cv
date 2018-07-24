@@ -1,89 +1,139 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Olly Hayes
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+| Nationality: | British |
+| Address: | Bristol UK |
+| Phone: | +44(0) 7727 617 270 |
+| E-mail: | olly.hayes@gmail.com |
 
+## Profile
 
-## Currently
+After working at C Software Ltd for three and a half years, where I was promoted to project manager in 2011, I left to travel Southeast Asia for five months on a self organised trip though eight countries. Whilst there I spent time developing communication skills whilst interacting with cultures from around the world, and learning to be adaptable, flexible and self reliant when faced with unexpected events. I have now returned, inspired to take a step forward in my career, and to seek a new role that challenges my limits and provides an opportunity to further increase my technical and managerial capabilities.
 
-Standing on the shoulders of giants
+## Skills
 
-### Specialized in
+* 3 years experience in full stack web development, using C#, Razor, SQL Server, JavaScript/TypeScript, for single page applications as well as traditional server generated sites
+* 5 years experience in designing and developing object oriented .net desktop applications in C# using WPF and earlier WinForms
+* Complete end to end SDLC experience as a project manager
+* Experience of working in small teams using an Agile methodology, as well as an ability to work independently on long term projects
+* Experience in designing and developing high performance graphical WPF and web-based (WebGL & CSS) applications, knowledge of animation, transforms, 2D/3D geometry, coordinate system transformations, multi-touch support (pinch to zoom/rotate etc)
+* Working understanding of client/server architecture for both web based and desktop applications, as well as asynchronous programming techniques in both JavaScript and C# (promises, async, RxJS, parallel programming etc)
+* Adept in the utilisation of many software frameworks and libraries including ASP.NET MVC5, Knockout.js, D3.js, jQuery, Express.js, Castle Windsor, Moq
+* Strong understanding of SQL, query optimisation and no-SQL databases such as the Java based Elastic Search
+* Experience with various software development tools, including Visual Studio 2015, Git, Subversion, Node.js (Grunt, Gulp, Webpack), Vim
+* Excellent problem solving skills, often lent expertise to colleagues faced with particularly sticky problems
+* Experience in writing technical documentation, user guides and writing and presenting training packs as power point slides
+* Ability to troubleshoot complicated software/hardware issues using various tools - IDE debugger, PuTTY/SSH, Wireshark, Fiddler, hardware simulators etc
+* Understanding of the basics of several distributions of GNU/Linux having used it exclusively for home laptop, PC and server for the past two years
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Work Experience
 
+### FundsLibrary
 
-### Research interests
+July 2013 - August 2017
+{:.date-period}
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+FundsLibrary, wholly owned by Hargreaves Lansdown, a FSTE 100 company, provides an online data repository for fund information. Our websites and databases are used by thousands of financial advisors and consumers across the UK and Europe, as we have in-depth fund data for tens of thousands of funds, and collect new data and update our servers in real time every night. We also build custom sites for clients which display that data to customers in interactive tools and visualisations.
 
+At FundsLibrary I worked with a team of 19 developers using an agile methodology in a highly test driven environment. We worked in teams of five and each rotated around several areas of development, including new client implementations, infrastructure and server maintenance,  and data management and delivery. This wide range of work allowed me to quickly become an expert in the field of web development.
+
+#### C# Senior Developer
+
+* Created an interactive chart building framework built upon D3.js as a replacement for the expensive and now abandoned .net charting library. The framework has a focus on being extensively customable for clients requirements using a drop-in module system, and is now used for all our charting needs
+* Designed and built several unique data visualisation tools. They used flawless animation to illustrate complex financial rules and calculations, helping the users gain an understanding of the mechanics of the system
+* Researched and helped integrate the java-based Elastic Search distributed search engine into our web service to improve search flexibility and speed
+* Mentored junior and senior developers, am considered one of the company experts on several front-end libraries and frameworks
+* Attended meetings and conference calls with clients throughout implementation projects, bringing in a technical understanding of the system in order to construct a solution to best satisfy their needs.
+* Managed a system that imports data from more than 30 different external investment banks and financial data providers using a variety transport protocols. Imports consist of many different file formats, summing several gigabytes of financial data each night
+* Recognised the need for a replacement for a collection of unorganised and unmaintainable batch files, and built a highly structured and testable C# task scheduler with an intuitive web interface. Most of the tasks are run each day and span multiple servers managing log files, pre-caching data, and operating clean up operations on the database
+* Integrated the compilation and testing of a new langue – TypeScript – into our continuous integration server. This presented several difficulties as the language was still in it's infancy and tooling was immature. Much research was necessary
+* Created a framework for integration testing of database logic, utilising a temporary SQLite in-memory database as a replacement for SQL Server normally used in production. This meant the tests were not only much easier to write and maintain, but tested for a much wider range of bugs, unlike the mock-based testing that was used previously
+
+### C Software Ltd
+
+August 2009 - December 2012
+{:.dates}
+
+C Software provides real-time tactical software solutions for the UK Ministry of Defence, focusing on remote and live asset tracking, delocalised command and control, and information processing and presentation. Whilst not producing hardware ourselves, we work closely with many hardware manufactures to provide a single client/server GIS based application that can be used to control a wide range of third party systems.
+
+Upon initially starting with C Software in 2009 it consisted of three engineers including myself, this progressed to nine with a continuous need for developers. The software we produced has now spread across multiple government departments.
+
+#### C# Senior Developer
+
+August 2011 - December 2012
+{:.dates}
+
+Complete end to end SDLC, from requirements scoping to system deployment and training. Sole manager of projects consisting of 3 or 4 people using an Agile methodology, with life times of around six months.
+
+* Designed and developed a high performance tile based mapping engine, featuring an interactive live tactical overlay, and the ability to pull mapping from various sources including Bing/OSM maps, remote government servers, and local storage for offline use. This is now used in all our GIS based products and has taken over from an MoD supplied mapping engine
+* Designed and developed a prototype interactive 3D terrain application which was successful and is now being used in a complete MoD project
+* Created databases with SQLite or SQL Server to store geographical data. This data was then displayed over our mapping engine using interactive 2D WPF graphics
+* Used MVVM in WPF to quickly produce robust and easily testable user interfaces
+* Regularly worked with international hardware manufactures to develop and utilise extensible APIs and hardware interfaces, often spending days or weeks working away
+* Excellent stakeholder communication skills within the MOD; liaised face to face on a regular basis with external Project Managers, leading project meetings and giving product demonstrations throughout the lifecycle of the project
+* Also communicated closely with the end user; working with them to discuss requirements, and brain storm user interface ideas and features to make them intuitive and efficient for their specific needs
+* All client communication required regular trips around the UK and overseas
+
+#### C# Developer
+
+August 2009 - August 2011
+{:.dates}
+
+* Worked on several government funded research projects. Being from a mathematical background I also developed several algorithms, such as a live GPS data compression algorithm
+* Self taught the fundamentals of IP networking and many data bearers and protocols during several projects involving remotely networked hardware connected either securely over the internet or by ad-hoc IP data  bearers (e.g. satellite or RF)
+* Responsible for keeping up to date with current technology trend, ensuring the business is always benefiting from next generation software tools and frameworks
+* Technical support to the end-user and responsible for user training. Undertook sole visits to client site whenever necessary
+* Created user guides and training packs for each new system I developed
+* In-field and office based testing, including managing several airborne trials
+
+### Pertemps Ltd
+
+June 2006 - June 2009
+{:.dates}
+
+Worked through Pertemps as a contractor for Lloyds Banking Group.
+
+#### Lloyds Banking Group - C# Junior Developer
+
+* Worked full time during holidays from university for five months each year
+* Designed, built and managed relational databases using a range of tools, including Access, SQL Server, Firebird and SQLite
+* Built graphical user interfaces for those databases using WinForms, C# and VisualBasic.net
+* Worked with end-users to ensure maximum usability
+* Built several development tools for the small team of programmers I worked with, such as a file viewer that used virtualisation to open large files without hanging, and displaying themas text, hex or tabulated data (.csv)
+
+## Personal Projects
+
+* Put together a Debian based home server with a samba file share, off site backups and a node.js based website
+* Created a Knockout.js web-based file explorer for downloading and uploading files to the server over the web. It uses TLS and a custom cookie based login system for security
+* Building a RaspberryPi powered pan-tilt camera that uses a WebGL virtual display to remove the inaccuracy in moving the camera over a high latency connection i.e. the web (in progress)
+* Made a WPF based world map viewer using Natural Earth data, that illustrates the differences between various mapping projections
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### University of Southampton
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+2006 - 2009
+{:.dates}
 
-- Sizar
+Mathematics Degree - 2:2
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Weston 6th Form College
 
-- Fellow
+2004 - 2006
+{:.dates}
 
+Three A-Levels in Maths, Further Maths and Physics
 
+### Broadoak Community School
 
-## Awards
+1999 - 2004
+{:.dates}
 
-`2012`
-President, *Royal Society*, London, UK
+11 GCSEs. A\* in Mathematics, AA in Science
 
-Associate, *French Academy of Science*, Paris, France
+## Personal Interests
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Rock climbing, hiking, mountain biking, snowboarding, camping, music festivals
