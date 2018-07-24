@@ -120,12 +120,12 @@ Worked through Pertemps as a contractor for Lloyds Banking Group.
 
 ## Personal Projects
 
-* Built a spending tracker in React, an offline enabled web app that uploads data to a google spreadsheet using their API. Built during year away for managing spending
-* Put together a Debian based home server with a 6TB RAID 5 array with off-site backups, samba file share, DNS server, SSH-based git server, and node.js based website
-* Created a Knockout.js web-based file explorer for downloading and uploading files to the server over the web. It uses TLS and a custom cookie based login system for security
-* Building a Raspberry Pi powered web-based thermostat to control home heating (in progress)
-* Building a Raspberry Pi powered pan-tilt camera that uses a WebGL virtual display to remove the inaccuracy in moving the camera over a high latency connection like the internet (in progress)
-* Made a WPF based world map viewer using Natural Earth data, that illustrates the differences between various mapping projections
+* A spending tracker in React, an offline enabled web app that uploads data to a google spreadsheet using their API. Built during year away for managing spending
+* A Debian home server with a 6TB RAID 5 array with off-site backups, samba file share, DNS server, SSH-based git server, and node.js based website
+* Knockout.js web-based file explorer for downloading and uploading files to the server over the web. It uses TLS and a custom cookie based login system for security
+* Raspberry Pi powered web-based thermostat to control home heating (in progress)
+* Raspberry Pi powered pan-tilt camera that uses a WebGL virtual display to remove the inaccuracy in moving the camera over a high latency connection like the internet (in progress)
+* WPF based world map viewer using Natural Earth data, that illustrates the differences between various mapping projections
 
 ## Education
 
