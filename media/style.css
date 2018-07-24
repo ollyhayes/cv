@@ -1,18 +1,29 @@
+@media screen
+{
+	body
+	{
+		background: gainsboro;
+	}
+
+	div.main
+	{
+		max-width: 900px;
+		margin: auto;
+		background: white;
+		padding: 10px;
+		border: 1px solid grey;
+	}
+}
+
 body
 {
-	background: gainsboro;
 	font-family: sans-serif;
-	font-size: 1.2em;
-	line-height: 1.2em;
+	font-size: 1.15em;
+	line-height: 1.15em;
 }
 
 div.main
 {
-    max-width: 900px;
-    margin: auto;
-    background: white;
-    padding: 10px;
-    border: 1px solid grey;
 	position: relative; /* so .date-period elements can be right aligned */
 }
 
@@ -39,7 +50,7 @@ h2
 {
 	position: absolute;
 	right: 0;
-	transform: translateY(-52px); /* don't really like doing this, but better than hacking the DOM elements around I think */
+	transform: translateY(-64px); /* don't really like doing this, but better than hacking the DOM elements around I think */
 	margin-right: 10px;
 }
 
