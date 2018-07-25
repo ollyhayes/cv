@@ -15,7 +15,7 @@ title: Olly Hayes CV
 
 ## Profile
 
-After working at Hargreaves Lansdown for four years, I left to travel round the world for a year on a self-organised trip though fifteen countries. Whilst away I spent time developing communication skills whilst interacting with cultures from around the world, and learning to be adaptable, flexible and self reliant when faced with unexpected events. I have now returned, inspired to take a step forward in my career, and to seek a new role that challenges my limits and provides an opportunity to further increase my technical and managerial capabilities.
+After working at FundsLibrary for four years, I left to travel round the world for a year on a self-organised trip though fifteen countries. Whilst away I spent time developing communication skills whilst interacting with cultures from around the world, and learning to be adaptable, flexible and self reliant when faced with unexpected events. I have now returned, inspired to take a step forward in my career, and to seek a new role that challenges my limits and provides an opportunity to further increase my technical and managerial capabilities.
 
 ## Skills
 
