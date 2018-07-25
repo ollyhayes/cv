@@ -52,7 +52,7 @@ At FundsLibrary I worked with a team of 19 developers using an agile methodology
 
 #### C# Senior Developer
 
-* Created an interactive chart building framework built upon D3.js as a replacement for the expensive and now abandoned .net charting library. The framework has a focus on being extensively customisable for clients requirements using a drop-in module system, and is now used for all their charting needs
+* Created an interactive chart building framework built upon D3.js as a replacement for the expensive and now abandoned .net charting library. The framework has a focus on being extensively customisable for client's requirements using a drop-in module system, and is now used for all their charting needs
 * Designed and built several unique data visualisation tools. They used flawless animation to illustrate complex financial rules and calculations, helping the users gain an understanding of the relationships between different parts of the system
 * Researched and helped integrate the java-based Elasticsearch distributed search engine into our web service to improve search flexibility and speed
 * Mentored junior and senior developers, considered one of the company experts on several front-end libraries and frameworks
@@ -126,7 +126,7 @@ Worked through Pertemps as a contractor for Lloyds Banking Group.
 * A Debian home server with a 6TB RAID 5 array with off-site backups, samba file share, DNS server, SSH-based git server, and node.js based website
 * Knockout.js web-based file explorer for downloading and uploading files to the server over the web. It uses TLS and a custom cookie based login system for security
 * Raspberry Pi powered web-based thermostat to control home heating (in progress)
-* Raspberry Pi powered pan-tilt camera that uses a WebGL virtual display to remove the inaccuracy in moving the camera over a high latency connection like the internet (in progress)
+* Raspberry Pi powered pan-tilt camera that uses a WebGL virtual display to remove the inaccuracy in rotating the camera over a high latency connection like the internet (in progress)
 * WPF based world map viewer using Natural Earth data, that illustrates the differences between various mapping projections
 
 ## Education
@@ -143,7 +143,7 @@ Mathematics Degree - 2:2
 2004 - 2006
 {:.date-period}
 
-Three A-Levels in Maths, Further Maths and Physics
+Three A-Levels. A in Maths, C in Further Maths and A Physics
 
 ### Broadoak Community School
 
