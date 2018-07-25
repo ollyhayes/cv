@@ -44,6 +44,8 @@ h2
 {
     border-bottom: 1px solid grey;
 }
+
+/* right align dates */
 .date-period
 {
 	position: absolute;
@@ -51,8 +53,13 @@ h2
 	transform: translateY(-54px); /* don't like doing this, but need to get it working quickly. Will find a better way later. */
 	margin-right: 10px;
 }
+.date-period.no-heading
+{
+	transform: translateY(-49px);
+}
 
-:not(header) + h2, :not(h2) + h3
+/* add a gap between parts of the same section */
+:not(header) + h2, :not(h2) + h3, :not(h2) + .no-heading:not(.date-period)
 {
 	margin-top: 2em;
 }
@@ -65,7 +72,6 @@ p,ul
 {
 	break-before: avoid;
 }
- 
 not working in chrome, hardcoding page breaks for now */
 
 h2#work-experience,h3#c-software-ltd,h3#pertemps-ltd

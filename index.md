@@ -36,9 +36,10 @@ After working at Hargreaves Lansdown for four years, I left to travel round the 
 ## Work Experience
 
 Away from work for round-the-world trip.
+{:.no-heading}
 
 August 2017 - July 2018
-{:.date-period}
+{:.date-period.no-heading}
 
 ### FundsLibrary
 
@@ -62,9 +63,10 @@ At FundsLibrary I worked with a team of 19 developers using an agile methodology
 * Created a framework for integration testing of database logic, utilising a temporary SQLite in-memory database as a replacement for SQL Server normally used in production. This meant the tests were not only much easier to write and maintain, but tested for a much wider range of bugs, unlike the mock-based testing that was used previously
 
 Away from work for trip to asia.
+{:.no-heading}
 
 December 2012 - June 2013
-{:.date-period}
+{:.date-period.no-heading}
 
 ### C Software Ltd
 
