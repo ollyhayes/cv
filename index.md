@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV
+title: Olly Hayes CV
 ---
 <header markdown="1">
 
